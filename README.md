@@ -3,3 +3,4 @@
 * [ウェブ情報の信憑性判断時におけるバイアス耐性に関する質問](https://github.com/hontolab/information-access-literacy/blob/master/credibility-judgment-bias.md)
 * https://github.com/hontolab/information-access-literacy/blob/master/web-browsing-strategy.md
 * https://github.com/hontolab/information-access-literacy/blob/master/search-strategy.md
+* https://github.com/hontolab/information-access-literacy/blob/master/search-engine-familiarity.md
