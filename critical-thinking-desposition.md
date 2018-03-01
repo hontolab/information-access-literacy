@@ -1,21 +1,19 @@
-# 批判的思考態度に関する質問
+# Questionnaire on Critical Thinking Dispositions
+Items with an asterisk are reverse code scale items。
 
-## 質問リスト
-※ アスタリスク（*）がついている質問は反転項目。
-
-57. 複雑な問題について順序立てて考えることが得意だ
-58. 考えをまとめることが得意だ
-59. 物事を正確に考えることに自信がある
-60. 誰もが納得できるような説明をすることができる
-61. 何か複雑な問題を考えると、混乱してしまう（*）
-62. 公平な見方をするので、私は仲間から判断を任される
-63. 何かの問題に取り組む時は、しっかりと集中することができる
-64. 一筋縄ではいかないような難しい問題に対しても取り組みつづけることができる
-65. 道筋を立てて物事を考える
-66. 私の欠点は気が散りやすいことだ（*）
+57. I am good at thinking about complicated problems in an organized way
+58. I am good at summarizing ideas
+59. I am confident about my ability to think precisely
+60. I am good at explaining so that anyone can understand me
+61. I get confused whenever thinking about complicated problems (\*)
+62. My colleagues often ask me to make judgments because I am fair
+63. I can maintain concentration while working on a problem
+64. I can continue to challenge tough problems
+65. I set a roadmap when thinking about something
+66. I am easily distracted (\*)
 67. 物事を考えるとき、他の案について考える余裕がない（*）
-68. 注意深く物事を調べることができる
-69. 建設的な提案をすることができる
+68. I can look into a problem carefully
+69. I am good at making constructive proposals
 70. いろいろな考え方の人と接して多くのことを学びたい
 71. 生涯にわたり新しいことを学びつづけたいと思う
 72. 新しいものにチャレンジするのが好きである
@@ -37,12 +35,11 @@
 88. 判断をくだす際は、できるだけ多くの事実や証拠を調べる
 89. 何事も、少しでも疑わずに信じ込んだりはしない
 
-## 選択肢
-* 5: 当てはまる
-* 4: やや当てはまる
-* 3: どちらとも言えない
-* 2: あまり当てはまらない
-* 1: 当てはまらない
+## Possible Choices
+* 5: Strongly agree
+* 4: Agree
+* 3: Neutral
+* 2: Disagree
+* 1: Strongly disagree
 
-## 出典
-平山るみ, 楠見孝. 批判的思考態度が結論導出プロセスに及ぼす影響:証拠評価と結論生成課題を用いての検討. 教育心理学研究, Vol. 52, No. 2, pp. 186–198, 2004.
+
