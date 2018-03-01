@@ -24,13 +24,13 @@ Items with an asterisk are reverse code scale items。
 77. I want to learn as much as possible even if I am unsure if the information will be useful
 78. I like to discuss with those who have opinions that differ from mine
 79. I try to ask about what I do not understand
-80. いつも偏りのない判断をしようとする
-81. 物事を見るときに自分の立場からしか見ない（*）
-82. 物事を決めるときには、客観的な態度を心がける
-83. 一つ二つの立場だけではなく、できるだけ多くの立場から考えようとする
-84. 自分が無意識のうちに偏った見方をしていないか振り返るようにしている
-85. 自分の意見についで話し合うときには、私は中立の立場ではいられない（*）
-86. たとえ意見が合わない人の話にも耳を傾ける
+80. I try to make fair judgments
+81. I stick to my position when thinking about something (\*)
+82. I try to adopt an objective attitude when deciding something
+83. I try to think from multiple viewpoints
+84. I try to reflect if I have unconscious biased opinions
+85. I have difficulty being neutral when discussing my opinions with others (\*)
+86. I try to listen to those with different opinions
 87. 結論をくだす場合には、確たる証拠の有無にこだわる
 88. 判断をくだす際は、できるだけ多くの事実や証拠を調べる
 89. 何事も、少しでも疑わずに信じ込んだりはしない
