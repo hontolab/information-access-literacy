@@ -14,16 +14,16 @@ Items with an asterisk are reverse code scale items。
 67. 物事を考えるとき、他の案について考える余裕がない（*）
 68. I can look into a problem carefully
 69. I am good at making constructive proposals
-70. いろいろな考え方の人と接して多くのことを学びたい
-71. 生涯にわたり新しいことを学びつづけたいと思う
-72. 新しいものにチャレンジするのが好きである
-73. さまざまな文化について学びたいと思う
-74. 外国人がどのように考えるかを勉強することは、意義のあることだと思う
-75. 自分とは違う考え方の人に興味を持つ
-76. どんな話題に対しても、もっと知りたいと思う
-77. 役に立つか分からないことでも、出来る限り多くのことを学びたい
-78. 自分とは異なった考えの人と議論するのは面白い
-79. 分からないことがあると質問したくなる
+70. I want to learn a lot by communicating with various types of people
+71. I want to continue learning new things over my lifetime
+72. I like to challenge new things
+73. I want to learn various cultures
+74. Learning how foreigners think is useful
+75. I am interested in people with opinions that di er from mine
+76. I want to learn more about any topic
+77. I want to learn as much as possible even if I am unsure if the information will be useful
+78. I like to discuss with those who have opinions that differ from mine
+79. I try to ask about what I do not understand
 80. いつも偏りのない判断をしようとする
 81. 物事を見るときに自分の立場からしか見ない（*）
 82. 物事を決めるときには、客観的な態度を心がける
